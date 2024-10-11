@@ -4,7 +4,7 @@
 
 This project focuses on performing data cleaning, exploratory data analysis (EDA), and feature engineering on an insurance dataset to derive valuable insights and trends. The goal is to analyze the behavior of different groups, such as males vs. females, smokers vs. non-smokers, and various regions, with respect to their insurance claim rates. The dataset includes features such as gender, age, BMI, blood pressure, smoker status, diabetic status, and the target variable, claim.
 
-## Dataset
+## Dataset: https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health.
 ## The dataset used in this project contains the following columns:
 
 PatientID: Unique identifier for each patient
